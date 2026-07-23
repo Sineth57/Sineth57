@@ -18,7 +18,7 @@ QA Engineer • AI Testing Enthusiast • Software Engineering Undergraduate
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 - 🎓 Software Engineering Undergraduate
 - 🎓 Former Intern QA Engineer
