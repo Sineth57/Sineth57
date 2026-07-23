@@ -139,13 +139,12 @@ Apache POI
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN">
-<img src="https://www.linkedin.com/in/sineth-shashintha-2b9896215/"/>
+<a href="https://www.linkedin.com/in/sineth-shashintha-2b9896215/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-
-<a href="mailto:YOUR_EMAIL">
-<img src="sinethshashintha2000@gmail.com"/>
+<a href="mailto:sinethshashintha2000@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </p>
