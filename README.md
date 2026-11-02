@@ -20,12 +20,12 @@ QA Engineer • AI Testing Enthusiast • Software Engineering Undergraduate
 
 #  About Me
 
+- 🎓 Software Quality Assurance Engineer
 - 🎓 Software Engineering Undergraduate
-- 🎓 Former Intern QA Engineer
-- 💼 Passionate about Software Quality Assurance
+- 💼 Passionate about AI-Driven Testing
 - 🤖 Exploring AI Testing & Prompt Validation
 - 🧪 Experienced in Manual, API and Automation Testing
-- 🌱 Currently mastering Playwright & Rest Assured
+- 🌱 Currently mastering Playwright & CI/CD
 - 💡 I enjoy building testing frameworks and automation solutions.
 
 ---
@@ -34,10 +34,17 @@ QA Engineer • AI Testing Enthusiast • Software Engineering Undergraduate
 
 ### Testing
 
-<p>
+<!-- <p>
 
 <img src="https://skillicons.dev/icons?i=selenium,java,postman,playwright"/>
 
+</p> -->
+
+### Testing
+
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium,java,postman,cypress"/>
+  <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="48" height="48"/>
 </p>
 
 ### Development
@@ -54,6 +61,14 @@ QA Engineer • AI Testing Enthusiast • Software Engineering Undergraduate
 
 <img src="https://skillicons.dev/icons?i=vscode,intellij,eclipse,figma,git,github,jira"/>
 
+</p>
+
+--- 
+
+### CI/CD
+
+<p>
+<img src="https://skillicons.dev/icons?i=githubactions"/>
 </p>
 
 ---
