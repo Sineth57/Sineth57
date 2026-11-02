@@ -75,6 +75,8 @@ QA Engineer • AI Testing Enthusiast • Software Engineering Undergraduate
 
 # 🧪 Testing Skills
 
+✔ Playwright
+
 ✔ Selenium WebDriver
 
 ✔ TestNG
@@ -87,13 +89,15 @@ QA Engineer • AI Testing Enthusiast • Software Engineering Undergraduate
 
 ✔ Manual Testing
 
-✔ Playwright
+✔ CI/CD
 
 ✔ Git & GitHub
 
 ✔ Jira
 
 ✔ MySQL
+
+✔ Cypress
 
 ---
 
